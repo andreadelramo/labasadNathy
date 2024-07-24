@@ -1,0 +1,28 @@
+
+  
+  :root {
+
+    /* Colores */
+    --black: #870000;
+    --red: #FF0000;
+    --white: #f6eeee;
+    --blue: #007bff;
+
+    /* Espacios */
+    --padding: 2rem;
+
+    /* Tipografías */
+    --header01: 30rem;
+  }
+
+body {
+    font-size: 2rem;
+    font-family: "manop-variable", sans-serif;
+}
+
+
+
+/* .example {
+    font-family: "manop-variable",sans-serif;
+    font-variation-settings: 'wght' 100, 'wdth' 50;
+  } */
